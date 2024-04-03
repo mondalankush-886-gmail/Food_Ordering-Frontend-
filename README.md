@@ -1,2 +1,2 @@
 # Food_Ordering-Frontend-
-# This is food ordering web site using omly HTML , CSS , JS.
+# This is food ordering web site using only HTML , CSS , JS.
